@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 # 💫 Hi 👋, I'm Sahil Chaurasia
 **A passionate MCA Student || Aspiring Data Engineer || Data Enthusiast from India 🇮🇳**
 
