@@ -2,6 +2,7 @@
 **A passionate MCA Student || Aspiring Data Engineer || Data Enthusiast from India 🇮🇳**
 
 I'm passionate about Data Engineering, SQL, Python, ETL pipelines, and Cloud technologies. I enjoy working with data and building projects that transform raw data into useful insights.. 😊😊
+<img align="right" width="300" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89zrs9ir7e8d1fzwba3f.gif" alt="Coding">
 
 - 🔭 **I’m currently working on: Data Engineering and ETL pipeline projects
 - 🌱 **I’m currently learning: SQL, Python, AWS, Snowflake, dbt & Data Engineering
@@ -10,9 +11,6 @@ I'm passionate about Data Engineering, SQL, Python, ETL pipelines, and Cloud tec
 - 💬 **Ask me about: SQL, Python, Data Engineering & ETL
 - 📫 **How to reach me:** sahilbebo24@gmail.com
 - ⚡ **Fun fact:**I enjoy turning raw data into meaningful insights! 📊
-<div align="right" style="margin-top: -40px;">
-  <img width="280" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89zrs9ir7e8d1fzwba3f.gif" alt="Coding">
-</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sahil.bebo.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sahillll_24_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-chaurasia-503164268) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilbebo24@gmail.com) 
