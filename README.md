@@ -19,7 +19,6 @@ I'm passionate about Data Engineering, SQL, Python, ETL pipelines, and Cloud tec
 </div>
 
 ## 🏆 GitHub Trophies
-## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wahsahil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
