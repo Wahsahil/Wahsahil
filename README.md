@@ -11,8 +11,10 @@ I'm passionate about Data Engineering, SQL, Python, ETL pipelines, and Cloud tec
 - 📫 **How to reach me:** sahilbebo24@gmail.com
 - ⚡ **Fun fact:**I enjoy turning raw data into meaningful insights! 📊
 <img align="right" width="280" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89zrs9ir7e8d1fzwba3f.gif">
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sahil.bebo.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sahillll_24_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-chaurasia-503164268) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilbebo24@gmail.com) 
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
